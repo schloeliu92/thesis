@@ -22,11 +22,7 @@ This repository contains the Python code used in my Master's thesis for the MSPH
 
 ---
 
-## Repository Structure
-thesis/
-├── thesis.py # Python script for data cleaning, modeling, and visualization
-├── data/ # (Not included) EMOSS dataset (restricted)
-├── README.md # Project documentation
+<pre> ## Repository Structure ``` thesis/ ├── thesis.py # Python script for data cleaning, modeling, and visualization ├── data/ # (Not included) EMOSS dataset (restricted) ├── README.md # Project documentation └── figures/ # (Optional) Output plots ``` </pre>
 
 ---
 
