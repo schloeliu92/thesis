@@ -36,7 +36,7 @@ thesis/
 - `pandas`, `numpy`, `matplotlib`
 - `statsmodels` for linear regression
 - `pyGAM` for generalized additive models
-- 
+
 ---
 
 ## Public Health Implications
