@@ -1,4 +1,4 @@
-# CCL5, Arterial Stiffness, and Sleepiness in Obstructive Sleep Apnea
+# Association of CCL5 with Arterial Stiffness in Obstructive Sleep Apnea: The Modifying Role of Excessive Daytime Sleepiness
 
 This repository contains the Python code used in my Master's thesis for the MSPH in Epidemiology at Emory University. The thesis explores how **CCL5**, a pro-inflammatory chemokine, is associated with **arterial stiffness** in patients with **obstructive sleep apnea (OSA)**, and whether this relationship is modified by **excessive daytime sleepiness (EDS)**.
 
